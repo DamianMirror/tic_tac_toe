@@ -1,0 +1,7 @@
+﻿  bot2.cpp
+D:\code\ttt\bot2\bot2.cpp(95,36): warning C4244: '=': conversion from 'wchar_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=char
+          ]
+  bot2.vcxproj -> D:\code\ttt\x64\Debug\bot2.exe
